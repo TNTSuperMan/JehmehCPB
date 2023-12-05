@@ -1,0 +1,6 @@
+DATABASE jehmehcpb
+table log
+user: string
+url:  string
+time: string(年/月/日/時/分/秒)
+↑example: 2022/2/24/6/41/54
